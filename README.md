@@ -1,4 +1,4 @@
-# Using Loops and Arrays to Find Data
+sting in reok# Using Loops and Arrays to Find Data
 
 ## Learning Goals
 
